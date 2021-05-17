@@ -1,4 +1,4 @@
-# Smart planter - planter_web
+# docker symfony template
 
 This is a template for docker run symphony app 
 - Based on tutorial from [Peter Fisher](https://youtu.be/BJh6Kht8E-s)
